@@ -1,6 +1,6 @@
 {
     "name"         : "trilateralBasic",
-    "url"          : "https://github.com/TrilateralX/TrilateralBasic#TrilatelalBasic",
+    "url"          : "https://github.com/TrilateralX/TrilateralBasic#TrilateralBasic",
     "license"      : "MIT",
     "tags"         : ["cross", "drawing","2d","WebGL" ],
     "description"  : "trilateralBasic starting point for quick Trilateral3 experiments",
